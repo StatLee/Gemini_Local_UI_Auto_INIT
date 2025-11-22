@@ -1,0 +1,5 @@
+{
+  "name": "NeuroDeploy - LangChain Suite",
+  "description": "One-click deployment generator for local LangChain environments. Optimized for RTX 4060 Ti with Gemini Deep Thinking, RAG, and Media Generation support.",
+  "requestFramePermissions": []
+}
